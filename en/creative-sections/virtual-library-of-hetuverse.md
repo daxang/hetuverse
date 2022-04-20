@@ -1,0 +1,3 @@
+# Virtual Library of Hetuverse
+
+Hetuverse is an oasis of freedom for creation, but it should not be a lonely world, like a desert oasis in reality. Hetu will create a virtual library that is available to everyone through self-construction. Like the Encyclopedia Galactica in "Foundation", the virtual library constantly picks excellent works through reader selection, voting, and reviews and guarantees that all works are permanently circulated. At the same time, other Metaverse projects may build their libraries in Hetu, share their stories and works with other creators and users, and provide reading scenes.

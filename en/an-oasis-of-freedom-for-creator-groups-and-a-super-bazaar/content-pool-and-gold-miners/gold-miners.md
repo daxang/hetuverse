@@ -1,0 +1,5 @@
+# Gold Miners
+
+The content pool is like a gold mine with endless reserves, attracting readers and countless miners. They use their talents to extract the in-depth value of the content pool from a variety of perspectives. They are visual artists, fan fiction authors, game designers, cartoonists, writers, screenwriters and producers, and even managers. We shall notice that there will be countless gold miners surrounding the numerous content pools due to their efforts. Some of these miners will build derivative items based on the content IP therein, such as games, comics, and even music, which they can "sell" these second layer "commodities" to the market or the society. When each miner successfully sells his commodities, the total value of the content pool, the value of the processed content, and the income of the original creator alone with miners' income of their labor results, all naturally increased based on Hetu Smart Contract setting.
+
+The content pool and miners model may summarize in three keys: open content, value sharing, and commercial win-win.
