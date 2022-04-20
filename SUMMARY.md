@@ -31,15 +31,3 @@
   * [创始团队+社区共同治理模式](guan-yu-he-tu-yu-zhou/ping-tai-zhi-li/chuang-shi-tuan-dui-+-she-qu-gong-tong-zhi-li-mo-shi/README.md)
     * [社区完全自治DAO模式](guan-yu-he-tu-yu-zhou/ping-tai-zhi-li/chuang-shi-tuan-dui-+-she-qu-gong-tong-zhi-li-mo-shi/she-qu-wan-quan-zi-zhi-dao-mo-shi.md)
 * [RoadMap](guan-yu-he-tu-yu-zhou/roadmap.md)
-
-## 🪙 Gold Collector
-
-* [Publishing your content](gold-collector/publishing-your-content.md)
-
-## Tips and tricks
-
-* [Speed up with quick find](tips-and-tricks/speed-up-with-quick-find.md)
-
-## Next steps
-
-* [What next?](next-steps/what-next.md)
